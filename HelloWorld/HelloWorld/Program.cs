@@ -7,7 +7,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello World, this is meeeeeeeeeeeee, we are here !");
+            Console.WriteLine("Hello World, another request!");
             Console.WriteLine();
 
             Console.WriteLine("Press any key to exit... ");
