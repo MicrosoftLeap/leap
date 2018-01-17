@@ -6,9 +6,11 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hasta La Vista!");
+
+            Console.WriteLine("Goodbye Wrld!");
             Console.WriteLine();
 
+            Console.WriteLine("Press any key to take over the world...");
             Console.WriteLine("You can never exit...");
             Console.ReadKey();
         }
