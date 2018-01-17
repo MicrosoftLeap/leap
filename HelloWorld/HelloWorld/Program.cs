@@ -12,6 +12,10 @@ namespace HelloWorld
 
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
+            Console.WriteLine("Hahahahaha");
+            Console.WriteLine("Hahahahahaha");
+            Console.WriteLine("Hahahahaha");
+            Console.WriteLine("Hahaahhahahaha");
             Console.WriteLine("Haha");
             Console.WriteLine("I am adding on 16 too!");
             Console.WriteLine("Adding a line");
