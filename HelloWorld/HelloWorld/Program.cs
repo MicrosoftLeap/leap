@@ -6,8 +6,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            //commment goes here
-            Console.WriteLine("Hello World Friend!");
+            //commment goes hear
+            Console.WriteLine("Hello World Friend! Fiexed it dood");
             Console.WriteLine();
 
             Console.WriteLine("Press any key to exit...");
