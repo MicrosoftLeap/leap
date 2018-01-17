@@ -7,7 +7,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             //commment goes here. Moar changes aded
-            Console.WriteLine("Hello World Friend! Lez go dooood!");
+            Console.WriteLine("Banananannanana!");
             Console.WriteLine();
 
             Console.WriteLine("Press any key to exit...");
