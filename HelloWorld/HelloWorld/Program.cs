@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I'm back!");
+            Console.WriteLine("This is to test merge conflicts!");
             Console.WriteLine();
 
             Console.WriteLine("Test!");
@@ -14,3 +14,4 @@ namespace HelloWorld
         }
     }
 }
+';
