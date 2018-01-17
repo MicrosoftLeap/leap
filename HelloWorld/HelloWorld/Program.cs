@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! DANCE PARTY! and I dont want your changes in my file! BOO BOO");
+            Console.WriteLine("Goat got shaved");
             Console.WriteLine();
 			// Random Comment goes here
             // Second Comment goes here
