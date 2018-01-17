@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Cruel World! Take My Changes, Please");
             Console.WriteLine();
 			// Random Comment goes here
             // Second Comment goes here
