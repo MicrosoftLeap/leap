@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is to test merge conflicts!");
+            Console.WriteLine("I made a change");
             Console.WriteLine();
 
             Console.WriteLine("Test!");
