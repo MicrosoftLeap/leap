@@ -6,8 +6,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi Worlds!");
-            Console.WriteLine();
+            Console.WriteLine("Watch out for your roommate!");
+            Console.WriteLine("I'm scared!");
 
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
