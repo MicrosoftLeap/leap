@@ -6,6 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Goat got shaved");
             Console.WriteLine("Hello World! DANCE PARTY! and I dont want your changes in my file! BOO BOO");
             Console.WriteLine("Hello Cruel World! Take My Changes, Please");
             Console.WriteLine();
