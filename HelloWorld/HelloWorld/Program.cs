@@ -4,6 +4,7 @@ namespace HelloWorld
 {
     class Program
     {
+        //Modify Hello World!
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
@@ -12,6 +13,7 @@ namespace HelloWorld
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
             Console.WriteLine("Haha");
+            Console.WriteLine("Adding a line");
         }
     }
 }
