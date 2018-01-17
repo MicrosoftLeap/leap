@@ -11,7 +11,10 @@ namespace HelloWorld
 
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
-            Console.WriteLine("Haha");
+            Console.WriteLine("Hahahahaha");
+            Console.WriteLine("Hahahahahaha");
+            Console.WriteLine("Hahahahaha");
+            Console.WriteLine("Hahaahhahahaha");
         }
     }
 }
