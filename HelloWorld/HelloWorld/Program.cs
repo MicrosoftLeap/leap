@@ -4,6 +4,7 @@ namespace HelloWorld
 {
     class Program
     {
+        //Modify Hello World!
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
@@ -15,6 +16,8 @@ namespace HelloWorld
             Console.WriteLine("Hahahahahaha");
             Console.WriteLine("Hahahahaha");
             Console.WriteLine("Hahaahhahahaha");
+            Console.WriteLine("Haha");
+            Console.WriteLine("I am adding on 16 too!");
         }
     }
 }
