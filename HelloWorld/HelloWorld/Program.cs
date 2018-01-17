@@ -20,6 +20,7 @@ namespace HelloWorld
             Console.WriteLine("I am adding on 16 too!");
             Console.WriteLine("Haha");
             Console.WriteLine("Adding a line");
+            Console.WriteLine("luyao new line");
         }
     }
 }
