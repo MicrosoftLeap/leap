@@ -6,10 +6,11 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello LEAP World!");
             Console.WriteLine();
 
-            Console.WriteLine("Press any key to exit...");
+            Console.WriteLine("Press any key to exit... :D");
+            Console.WriteLine("Testing more stuff...");
             Console.ReadKey();
         }
     }
