@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Yo! This is going to cause a merge conflict.");
+            Console.WriteLine("Hello adam!");
             Console.WriteLine();
 
             Console.WriteLine("Press any key to exit...");
