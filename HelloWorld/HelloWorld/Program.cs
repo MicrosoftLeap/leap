@@ -6,9 +6,9 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Existance is pain :D");
+            Console.WriteLine("Hello World!");
             Console.WriteLine();
-            
+
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
         }
