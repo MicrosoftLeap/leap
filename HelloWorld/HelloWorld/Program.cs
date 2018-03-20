@@ -14,10 +14,7 @@ namespace HelloWorld
                 Console.WriteLine("NAW");
             Console.WriteLine("he3");
             Console.WriteLine();
-
-                Console.WriteLine("Press any key to exit...");
-                Console.ReadKey();
-                aowiljnef;owame;ofjkwa;efkm;
+                Console.WriteLine(skl;fjafjasfjsda;lfdsjf);)
                 Console.WriteLine("hey");
             }
         }
