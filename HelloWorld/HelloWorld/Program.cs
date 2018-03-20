@@ -6,11 +6,14 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine();
+            while(1 < 2)
+            {
+                Console.WriteLine("Hello World!");
+                Console.WriteLine();
 
-            Console.WriteLine("Press any key to exit...");
-            Console.ReadKey();
+                Console.WriteLine("Press any key to exit...");
+                Console.ReadKey();
+            }
         }
     }
 }
