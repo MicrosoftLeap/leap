@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            dzoijtiosdjtiojt
+            Adding new line because the other changes were garbage
             Console.WriteLine("Hello from rainy Seattle!");
             Console.WriteLine();
 
