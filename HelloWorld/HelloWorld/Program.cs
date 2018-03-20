@@ -6,7 +6,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello from the C:> attle");
+            //changes I'm adding
+            Console.WriteLine("Hello World!");
             Console.WriteLine();
 
             Console.WriteLine("Press any key to exit...");
