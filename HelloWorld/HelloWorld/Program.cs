@@ -6,6 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello from over here!!");
             Console.WriteLine("Hello World! from Austin, Texas yeehaaa");
             Console.WriteLine();
 
