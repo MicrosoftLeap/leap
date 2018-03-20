@@ -8,6 +8,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello LEAP!");
             Console.WriteLine("Hello Kitty!");
+            Console.WriteLine("It's Taco Tuesday");
             Console.WriteLine("It's almost snack time!!!!");
             Console.WriteLine();
 
