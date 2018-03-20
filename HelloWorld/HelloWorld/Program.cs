@@ -6,9 +6,11 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("I like junk food and sleeping way too little :D");
             Console.WriteLine("The ginger bread man lives in a ginger bread house.");
             Console.WriteLine("Is he made from the house, or is the house made from him?");
             Console.WriteLine("He scremas, for he does not know.");
+
             Console.WriteLine();
 
             Console.WriteLine("Press any key to exit...");
