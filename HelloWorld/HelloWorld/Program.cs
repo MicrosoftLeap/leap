@@ -9,7 +9,7 @@ namespace HelloWorld
             Console.WriteLine("Merge conflict?!?!");
             Console.WriteLine();
 
-            Console.WriteLine("Some text");
+            Console.WriteLine("Some text goes here");
             Console.ReadKey();
         }
     }
