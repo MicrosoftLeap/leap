@@ -8,9 +8,11 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Candice was here!");
+            Console.WriteLine("Hello World!dadasdasdasdsaasdasada");
+
             Console.WriteLine();
 
-            Console.WriteLine("Press any key to exit...");
+            Console.WriteLine("Press any key to get your keys, get in your car, commute home, and then make dinner...");
             Console.ReadKey();
         }
     }
