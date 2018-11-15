@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace HelloWorld
 {
@@ -6,11 +7,19 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine();
+            string word = ReverseString("hello");
+            Console.WriteLine(word);
 
-            Console.WriteLine("Graham is a semi-mediocre dev");
-            Console.ReadKey();
+        }
+
+        static string ReverseString(string oldString)
+        {
+            StringBuilder newStr = new StringBuilder();
+            for(int i = oldString.Length-1; i >= 0; i--)
+            {
+                newStr.Append(oldString[i]);
+            }
+            return newStr.ToString();
         }
     }
 }
