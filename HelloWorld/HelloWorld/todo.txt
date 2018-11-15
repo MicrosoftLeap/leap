@@ -1,2 +1,3 @@
 ﻿1. Make it done!
-2.Done!
+2. Done!
+3. Fix global settings
