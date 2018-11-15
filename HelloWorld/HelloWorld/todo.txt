@@ -1,3 +1,4 @@
 ﻿1. Make it done!
 2. Done!
 3. Fix global settings
+4. Fix local settings
