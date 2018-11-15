@@ -10,6 +10,7 @@ namespace HelloWorld
             Console.WriteLine();
 
             Console.WriteLine("Press any key to exit...");
+            Console.WriteLine("I'm Eva");
             Console.ReadKey();
         }
     }
