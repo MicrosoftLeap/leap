@@ -9,9 +9,8 @@ namespace HelloWorld
             Console.WriteLine("Hello World!");
             Console.WriteLine();
 
+            // confict changes
             Console.WriteLine("conflicts...");
-            Console.WriteLine("helllooo");
-            Console.WriteLine("I'm Eva");
             Console.ReadKey();
 
             // modified
