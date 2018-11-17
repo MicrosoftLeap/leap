@@ -9,7 +9,7 @@ namespace HelloWorld
             Console.WriteLine("Hello World!");
             Console.WriteLine();
 
-            Console.WriteLine("kehinde");
+            Console.WriteLine("kehinde obanla");
             Console.ReadLine();
 
             Console.WriteLine("Press any key to exit...");
