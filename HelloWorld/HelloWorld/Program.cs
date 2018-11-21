@@ -8,7 +8,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine();
-
+            Console.WriteLine("Learrrrrrning Git!");
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
         }
