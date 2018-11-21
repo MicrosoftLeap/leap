@@ -6,6 +6,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("GoodBye World!");
+            Console.WriteLine("And then there were fewer.");
             Console.WriteLine("Hello World!");
             Console.WriteLine("I'm changing this! *Table Flip*");
             Console.WriteLine("I am here!");
