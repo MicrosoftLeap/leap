@@ -14,7 +14,7 @@ namespace HelloWorld
             Console.WriteLine("Ha I am in the old branch!");
             Console.WriteLine("Creating Chaos");
             Console.WriteLine("Creating more chaos!!!");
-            Console.WriteLine("Ha I am in a new branch!")
+            Console.WriteLine("Ha I am in a new branch!");
             Console.WriteLine("Leafffrrrrrrning Git!");
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
