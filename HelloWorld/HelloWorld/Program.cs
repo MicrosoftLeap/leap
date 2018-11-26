@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Greetings ninja!");
+            Console.WriteLine("Greetings ninja turtle!");
             Console.WriteLine("Hello tiny free World!");
             Console.WriteLine();
             Console.WriteLine();
